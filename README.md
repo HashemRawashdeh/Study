@@ -13,5 +13,9 @@ This Journey began once I hit adolescence and ends when I die, but this reposito
 I'm currently studying to become a machine learning engineer, then a data scientist. This means that I will be covering various mathematical, programming-related, and field-specific topics.
 
 ## Topics Covered to Date:
-Nothing is fully documented here yet.
+1. Programming
+2. MAthematics
+3. Machine Learning
+4. Deep Learning
+5. Computer Vision
 
